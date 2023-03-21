@@ -31,3 +31,11 @@ if response.status_code == 200:
 
 else : 
     print(f"Facet request failed with status code {response.status_code}")
+    
+    
+# response_data = response.json()
+# # print(response_data)
+
+# # print(response)
+
+
